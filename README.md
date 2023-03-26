@@ -7,7 +7,6 @@ Definitely take advantage of these opportunities below by applying to scholarshi
 | Name          | Deadline      | Masters/PhD  | Citizenship  | Nomination   |
 | ------------- |:-------------:| ------------:| ------------:| ------------:|
 | [Adobe Fellowship](https://research.adobe.com/fellowship/) | September | Both |  |  |
-| [Air Force Science & Technology Fellowship Program](https://sites.nationalacademies.org/PGA/Fellowships/AFRL/index.htm) | Rolling | Postdoc |  |  |
 | [Apple Scholars in AI/ML](https://machinelearning.apple.com/updates/introducing-apple-scholars-aiml) | October | PhD |  | Internal Nomination |
 | [Bloomberg Data Science Fellowship](https://www.techatbloomberg.com/bloomberg-data-science-ph-d-fellowship/) | April | PhD |  |  |
 | [Congressional Innovation Scholars Program](https://www.techcongress.io/blog/2019/2/7/now-recruiting-2019-congressional-innovation-scholars) | February | PhD |  |  |
