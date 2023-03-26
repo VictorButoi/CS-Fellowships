@@ -3,26 +3,9 @@ A curated list of fellowships and scholarships for graduate students in Computer
 
 Definitely take advantage of these opportunities below by applying to scholarships and/or fellowships:
 
-
-## Awards
-| Name          | Deadline      | Masters/PhD  |
-| ------------- |:-------------:| ------------:|
-| [ACM Doctoral Dissertation Award](https://awards.acm.org/doctoral-dissertation/nominations) | Rolling | PhD |
-| [Ackermann Award](https://www.eacsl.org/ackermann-award/) | July | PhD |
-| [EATCS Distinguished Dissertation Award](https://eatcs.org/index.php/dissertation-award) | December | PhD |
-| [IEEE ITS Best Dissertation Award](https://ieee-itss.org/awards/best-dissertation/) | June | PhD |
-| [John C. Reynolds Doctoral Dissertation Award](https://www.sigplan.org/Awards/Dissertation/) | January | PhD |
-| [Nature Research Awards for Inspiring and Innovating Science](https://www.nature.com/collections/jcpghfmqlz/applynow) | June | Post-PhD |
-| [Rising Stars in Machine Learning](https://ml.umd.edu/rising-stars) | August | PhD |
-| [WAGS/ProQuest Innovation in Technology Award](https://wagsonline.org/technology-award-announcement/) | October | PhD |
-
-
 ## Fellowships 
 | Name          | Deadline      | Masters/PhD  | Citizenship  | Nomination   |
 | ------------- |:-------------:| ------------:| ------------:| ------------:|
-| [AAUW American Fellowships](https://www.aauw.org/what-we-do/educational-funding-and-awards/american-fellowships/) | November | PhD |  |  |
-| [ACM SIGHPC / Intel Computational & Data Science Fellowship](https://www.sighpc.org/fellowships) | April | Both |  |  |
-| [ACM-IEEE CS George Michael Memorial HPC Fellowship](https://awards.acm.org/hpc-fellows) | May | PhD |  |  |
 | [Adobe Fellowship](https://research.adobe.com/fellowship/) | September | Both |  |  |
 | [Air Force Science & Technology Fellowship Program](https://sites.nationalacademies.org/PGA/Fellowships/AFRL/index.htm) | Rolling | Postdoc |  |  |
 | [Apple Scholars in AI/ML](https://machinelearning.apple.com/updates/introducing-apple-scholars-aiml) | October | PhD |  | Internal Nomination |
