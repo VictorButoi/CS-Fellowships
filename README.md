@@ -23,7 +23,6 @@ Definitely take advantage of these opportunities below by applying to scholarshi
 | [GEM Fellowship Program](http://www.gemfellowship.org/) | November | Both |  |  |
 | [Google PhD Fellowship](https://ai.google/research/outreach/phd-fellowship/) | December | PhD |  | Internal Nomination |
 | [Graduate Fellowships for STEM Diversity (GFSD)](https://gfsd.onlineapplications.net/applications/) | December | PhD |  |  |
-| [Hertz Fellowship](https://hertzfoundation.org/fellowships/application/) | October | PhD |  |  |
 | [HRT Hail Fellowship](http://www.hudson-trading.com/fellowship/) | December | PhD |  |  |
 | [IBM Masters Fellowship](https://www.research.ibm.com/university/awards/masters_fellowship.html) | October | Masters |  |  |
 | [IBM Ph.D. Fellowship](https://www.research.ibm.com/university/awards/fellowships.html) | October | PhD |  |  |
@@ -51,8 +50,7 @@ Definitely take advantage of these opportunities below by applying to scholarshi
 | [Snap Research Fellowship & Scholarship Program](https://snapresearchfs.splashthat.com/) | December | PhD |  |  |
 | [Symantec Research Labs Graduate Fellowship](https://www.symantec.com/about/careers/graduate-fellowship) | December | PhD |  |  |
 | [Twitter PhD Research Fellowship](https://phdfellowship.splashthat.com/) | December | PhD |  |  |
-| [Two Sigma PhD Fellowship](https://www.twosigma.com/community/academic-partnerships/graduate-students/phd-fellowships/) | November | PhD |  |  |
-| [Two Sigma Diversity PhD Fellowship](https://www.twosigma.com/community/academic-partnerships/graduate-students/phd-fellowships/) | November | PhD |  |  |
+| [Two Sigma PhD Fellowship](https://www.twosigma.com/community/academic-partnerships/graduate-students/phd-fellowships/) | November | PhD |  |  |  |
 |               |               |              |               |              |
 
 ## Resources for Applying to Fellowships
