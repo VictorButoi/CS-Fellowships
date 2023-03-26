@@ -14,7 +14,6 @@ Definitely take advantage of these opportunities below by applying to scholarshi
 | [Data Fluencies Dissertation Grants](https://www.ssrc.org/programs/data-fluencies/data-fluencies-dissertation-grants/) | March | PhD |  |  |
 | [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) | January | PhD |  |  |
 | [Facebook Fellowship Program and Emerging Scholar Awards](https://research.fb.com/programs/fellowship/) | October | PhD |  |  |
-| [Ford Foundation Fellowship Program](http://sites.nationalacademies.org/pga/fordfellowships/index.htm) | January | PhD |  |  |
 | [Frontera Computational Science Fellowship](https://frontera-portal.tacc.utexas.edu/fellowship/) | February | PhD |  |  |
 | [GEM Fellowship Program](http://www.gemfellowship.org/) | November | Both |  |  |
 | [Google PhD Fellowship](https://ai.google/research/outreach/phd-fellowship/) | December | PhD |  | Internal Nomination |
