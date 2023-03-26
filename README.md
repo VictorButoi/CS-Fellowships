@@ -24,7 +24,6 @@ Definitely take advantage of these opportunities below by applying to scholarshi
 | [IBM Ph.D. Fellowship](https://www.research.ibm.com/university/awards/fellowships.html) | October | PhD |  |  |
 | [Jane Street Graduate Research Fellowship](https://www.janestreet.com/apply-graduate-research-fellowship/) | December | PhD |  |  |
 | [Link Foundation Fellowship](http://www.linksim.org) | January | PhD |  |  |
-| [Microsoft Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/) | September | PhD |  | Internal Nomination |
 | [Microsoft Research PhD Fellowship Program](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/) | September | PhD |  | Internal Nomination |
 | [National Defense Science and Engineering Graduate Fellowship](https://www.ndsegfellowships.org/application) | December | PhD |  |  |
 | [NPSC Fellowship](http://www.npsc.org/index.html)| December | Both |  |  |
