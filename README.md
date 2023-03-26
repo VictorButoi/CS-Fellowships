@@ -16,20 +16,6 @@ Definitely take advantage of these opportunities below by applying to scholarshi
 | [Rising Stars in Machine Learning](https://ml.umd.edu/rising-stars) | August | PhD |
 | [WAGS/ProQuest Innovation in Technology Award](https://wagsonline.org/technology-award-announcement/) | October | PhD |
 
-## Scholarships
-| Name          | Deadline      | Masters/PhD  |
-| ------------- |:-------------:| ------------:|
-| [Generation Google Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship/) | December | Both |
-| [Google Women Techmakers Scholarship](https://www.womentechmakers.com/scholars) | December | Both |
-| [Intel Scholarship](https://scholarships.uncf.org/Program/Details/9eb15008-3567-45ed-b62f-aa14c784b09a) | December | Both |
-| [NANOG Scholarship](https://www.nanog.org/outreach/scholarship-program/) | Varies | Both |
-| [National Society of Black Engineers](https://connect.nsbe.org/Scholarships/ScholarshipList.aspx) | Varies | Both |
-| [Oracle Academy](https://academy.oracle.com/en/about-scholarships.html) | Varies | Both |
-| [Society of Women Engineers](https://societyofwomenengineers.swe.org/swe-scholarships) | Varies | Both|
-| [Wade Scholarship Program](https://www.wit.university/) | Varies | Masters|
-| |  |  |
-| |  |  | 
-
 
 ## Fellowships 
 | Name          | Deadline      | Masters/PhD  | Citizenship  | Nomination   |
