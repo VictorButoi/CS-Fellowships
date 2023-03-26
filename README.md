@@ -18,7 +18,6 @@ Definitely take advantage of these opportunities below by applying to scholarshi
 | [Frontera Computational Science Fellowship](https://frontera-portal.tacc.utexas.edu/fellowship/) | February | PhD |  |  |
 | [GEM Fellowship Program](http://www.gemfellowship.org/) | November | Both |  |  |
 | [Google PhD Fellowship](https://ai.google/research/outreach/phd-fellowship/) | December | PhD |  | Internal Nomination |
-| [Graduate Fellowships for STEM Diversity (GFSD)](https://gfsd.onlineapplications.net/applications/) | December | PhD |  |  |
 | [HRT Hail Fellowship](http://www.hudson-trading.com/fellowship/) | December | PhD |  |  |
 | [IBM Masters Fellowship](https://www.research.ibm.com/university/awards/masters_fellowship.html) | October | Masters |  |  |
 | [IBM Ph.D. Fellowship](https://www.research.ibm.com/university/awards/fellowships.html) | October | PhD |  |  |
@@ -28,7 +27,6 @@ Definitely take advantage of these opportunities below by applying to scholarshi
 | [National Defense Science and Engineering Graduate Fellowship](https://www.ndsegfellowships.org/application) | December | PhD |  |  |
 | [NPSC Fellowship](http://www.npsc.org/index.html)| December | Both |  |  |
 | [NVIDIA Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/)| September | PhD |  |  |
-| [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) | October | Both |  |  |
 | [Open Phil AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/the-open-phil-ai-fellowship) | October | PhD |  |  |
 | [Paul & Daisy Soros Fellowships for New Americans](https://www.pdsoros.org/) | November | Both |  |  |
 | [PEO Scholar Award](https://www.peointernational.org/psa-eligibility-requirements) | November | PhD |  |  |
