@@ -32,7 +32,6 @@ Definitely take advantage of these opportunities below by applying to scholarshi
 | [Qualcomm Innovation Fellowship](https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship) | October | PhD |  |  |
 | [SCGSR Program](http://science.energy.gov/wdts/scgsr/) | May | PhD |  |  |
 | [Schlumberger Foundation Faculty for the Future Fellowship](https://www.fftf.slb.com/) | November | PhD |  |  |
-| [SMART Scholarship for Service Program](https://smartscholarshipprod.service-now.com/smart) | December | Both |  |  |
 | [Snap Research Fellowship & Scholarship Program](https://snapresearchfs.splashthat.com/) | December | PhD |  |  |
 | [Twitter PhD Research Fellowship](https://phdfellowship.splashthat.com/) | December | PhD |  |  |
 | [Two Sigma PhD Fellowship](https://www.twosigma.com/community/academic-partnerships/graduate-students/phd-fellowships/) | November | PhD |  |  |  |
