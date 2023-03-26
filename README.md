@@ -25,7 +25,6 @@ Definitely take advantage of these opportunities below by applying to scholarshi
 | [Link Foundation Fellowship](http://www.linksim.org) | January | PhD |  |  |
 | [Microsoft Research PhD Fellowship Program](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/) | September | PhD |  | Internal Nomination |
 | [National Defense Science and Engineering Graduate Fellowship](https://www.ndsegfellowships.org/application) | December | PhD |  |  |
-| [NPSC Fellowship](http://www.npsc.org/index.html)| December | Both |  |  |
 | [NVIDIA Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/)| September | PhD |  |  |
 | [Open Phil AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/the-open-phil-ai-fellowship) | October | PhD |  |  |
 | [Paul & Daisy Soros Fellowships for New Americans](https://www.pdsoros.org/) | November | Both |  |  |
