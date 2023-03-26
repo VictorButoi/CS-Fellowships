@@ -31,8 +31,6 @@ Definitely take advantage of these opportunities below by applying to scholarshi
 | [Link Foundation Fellowship](http://www.linksim.org) | January | PhD |  |  |
 | [Microsoft Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/) | September | PhD |  | Internal Nomination |
 | [Microsoft Research PhD Fellowship Program](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/) | September | PhD |  | Internal Nomination |
-| [Microsoft Research Faculty Fellowship Program](https://www.microsoft.com/en-us/research/academic-program/faculty-fellowship/?ocid=msr_program_2021_faculty_tw) | September | Faculty |  |  |
-| [MIT METEOR Postdoctoral Fellowship Program](https://www.csail.mit.edu/meteor) | June | Postdoc |  |  |
 | [National Defense Science and Engineering Graduate Fellowship](https://www.ndsegfellowships.org/application) | December | PhD |  |  |
 | [NPSC Fellowship](http://www.npsc.org/index.html)| December | Both |  |  |
 | [NVIDIA Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/)| September | PhD |  |  |
@@ -43,8 +41,6 @@ Definitely take advantage of these opportunities below by applying to scholarshi
 | [Qualcomm Innovation Fellowship](https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship) | October | PhD |  |  |
 | [SCGSR Program](http://science.energy.gov/wdts/scgsr/) | May | PhD |  |  |
 | [Schlumberger Foundation Faculty for the Future Fellowship](https://www.fftf.slb.com/) | November | PhD |  |  |
-| [Schmidt Science Fellows](https://schmidtsciencefellows.org/) | May | Postdoc |  | Internal Nomination |
-| [Simons Fellows in Mathematics](https://www.simonsfoundation.org/mathematics-physical-sciences/simons-fellows/)| September | PhD |  |  |
 | [Siebel Scholars](http://www.siebelscholars.com/about) (Open to select schools) | July | PhD |  |  |
 | [SMART Scholarship for Service Program](https://smartscholarshipprod.service-now.com/smart) | December | Both |  |  |
 | [Snap Research Fellowship & Scholarship Program](https://snapresearchfs.splashthat.com/) | December | PhD |  |  |
