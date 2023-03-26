@@ -10,14 +10,12 @@ Definitely take advantage of these opportunities below by applying to scholarshi
 | [Air Force Science & Technology Fellowship Program](https://sites.nationalacademies.org/PGA/Fellowships/AFRL/index.htm) | Rolling | Postdoc |  |  |
 | [Apple Scholars in AI/ML](https://machinelearning.apple.com/updates/introducing-apple-scholars-aiml) | October | PhD |  | Internal Nomination |
 | [Bloomberg Data Science Fellowship](https://www.techatbloomberg.com/bloomberg-data-science-ph-d-fellowship/) | April | PhD |  |  |
-| [Computing Innovation Fellows (CIFellows) Program](https://cra.org/ccc/leadership-development/cifellows/) | TBD | Post-PhD |  |  |
 | [Congressional Innovation Scholars Program](https://www.techcongress.io/blog/2019/2/7/now-recruiting-2019-congressional-innovation-scholars) | February | PhD |  |  |
 | [Computer and Information Science and Engineering (CISE) Graduate Fellowships (CSGrad4US)](https://www.nsf.gov/cise/CSGrad4US/) | April | PhD |  |  |
 | [Data Fluencies Dissertation Grants](https://www.ssrc.org/programs/data-fluencies/data-fluencies-dissertation-grants/) | March | PhD |  |  |
 | Datminr Diversity in AI for Good Fellowship | December | PhD |  |  |
 | [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) | January | PhD |  |  |
 | [Facebook Fellowship Program and Emerging Scholar Awards](https://research.fb.com/programs/fellowship/) | October | PhD |  |  |
-| [Fatima Fellowship](https://abidlabs.github.io/fellowship/) | October | Pre-PhD |  |  |
 | [Ford Foundation Fellowship Program](http://sites.nationalacademies.org/pga/fordfellowships/index.htm) | January | PhD |  |  |
 | [Frontera Computational Science Fellowship](https://frontera-portal.tacc.utexas.edu/fellowship/) | February | PhD |  |  |
 | [GEM Fellowship Program](http://www.gemfellowship.org/) | November | Both |  |  |
