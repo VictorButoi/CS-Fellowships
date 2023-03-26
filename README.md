@@ -1,5 +1,5 @@
 # Computer Science Awards, Scholarships, & Fellowships
-A curated list of fellowships and scholarships for graduate students in Computer Science and related fields. List created by [Chinasa T. Okolo](http://www.chinasaokolo.com), a Computer Science PhD student at Cornell. This is a personal fork to tailor it to me.
+A curated list of fellowships created by [Chinasa T. Okolo](http://www.chinasaokolo.com), a Computer Science PhD student at Cornell. This is a personal fork to tailor it to me.
 
 Definitely take advantage of these opportunities below by applying to scholarships and/or fellowships:
 
