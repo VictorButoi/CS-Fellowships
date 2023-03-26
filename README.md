@@ -34,7 +34,6 @@ Definitely take advantage of these opportunities below by applying to scholarshi
 | [Schlumberger Foundation Faculty for the Future Fellowship](https://www.fftf.slb.com/) | November | PhD |  |  |
 | [SMART Scholarship for Service Program](https://smartscholarshipprod.service-now.com/smart) | December | Both |  |  |
 | [Snap Research Fellowship & Scholarship Program](https://snapresearchfs.splashthat.com/) | December | PhD |  |  |
-| [Symantec Research Labs Graduate Fellowship](https://www.symantec.com/about/careers/graduate-fellowship) | December | PhD |  |  |
 | [Twitter PhD Research Fellowship](https://phdfellowship.splashthat.com/) | December | PhD |  |  |
 | [Two Sigma PhD Fellowship](https://www.twosigma.com/community/academic-partnerships/graduate-students/phd-fellowships/) | November | PhD |  |  |  |
 |               |               |              |               |              |
